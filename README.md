@@ -1,6 +1,7 @@
 # Sweet Shop Management System
 
 A modern, full-stack web application for managing a sweet shop's inventory, user authentication, and purchase system. Built with React, TypeScript, and Prisma with SQL database.
+live : https://sweet-stack-ai.vercel.app/
 
 ## 🍭 Project Overview
 
